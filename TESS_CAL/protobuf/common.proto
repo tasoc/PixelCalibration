@@ -1,0 +1,24 @@
+syntax = "proto2";
+package tess.protobuf;
+
+option java_package = "gov.nasa.tess.protobuf";
+option java_outer_classname = "Common";
+
+option optimize_for = SPEED;
+
+message CcdImage {
+
+	message PixelRange {
+		required int32 lowerLimit = 1;
+		required int32 upperLimit = 2;
+	}
+
+	required int32 camera_number = 1;
+	required int32 ccd_number = 2;
+	optional PixelRange ccd_rows_range = 3;
+	optional PixelRange ccd_columns_range = 4;
+
+	repeated float image_data = 5 [ packed=true ] ;
+	repeated float uncertainty_image_data = 6 [ packed=true ] ;
+
+}

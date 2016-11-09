@@ -1,0 +1,828 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lin:linearityModel dataSetId="0" linearityModelId="42" startTjd="42.42" xmlns:lin="http://tess.mit.edu/linearity-model">
+	<channel cameraNumber="1" ccdNumber="1" ccdOutput="A">
+	<linearityPoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5" maxDomain="6.6">
+	<coeffs>
+	<coeff value="7.7"/>
+	<coeff value="8.8"/>
+	</coeffs>
+	<covariances>
+	<covariance value="9.9"/>
+	<covariance value="10.1"/>
+	</covariances>
+	</linearityPoly>
+	</channel>
+	<channel cameraNumber="1" ccdNumber="1" ccdOutput="B">
+	<linearityPoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5" maxDomain="6.6">
+	<coeffs>
+	<coeff value="7.7"/>
+	<coeff value="8.8"/>
+	</coeffs>
+	<covariances>
+	<covariance value="9.9"/>
+	<covariance value="10.1"/>
+	</covariances>
+	</linearityPoly>
+	</channel>
+	<channel cameraNumber="1" ccdNumber="1" ccdOutput="C">
+	<linearityPoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5" maxDomain="6.6">
+	<coeffs>
+	<coeff value="7.7"/>
+	<coeff value="8.8"/>
+	</coeffs>
+	<covariances>
+	<covariance value="9.9"/>
+	<covariance value="10.1"/>
+	</covariances>
+	</linearityPoly>
+	</channel>
+	<channel cameraNumber="1" ccdNumber="1" ccdOutput="D">
+	<linearityPoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5" maxDomain="6.6">
+	<coeffs>
+	<coeff value="7.7"/>
+	<coeff value="8.8"/>
+	</coeffs>
+	<covariances>
+	<covariance value="9.9"/>
+	<covariance value="10.1"/>
+	</covariances>
+	</linearityPoly>
+	</channel>
+	<channel cameraNumber="1" ccdNumber="2" ccdOutput="A">
+	<linearityPoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5" maxDomain="6.6">
+	<coeffs>
+	<coeff value="7.7"/>
+	<coeff value="8.8"/>
+	</coeffs>
+	<covariances>
+	<covariance value="9.9"/>
+	<covariance value="10.1"/>
+	</covariances>
+	</linearityPoly>
+	</channel>
+	<channel cameraNumber="1" ccdNumber="2" ccdOutput="B">
+	<linearityPoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5" maxDomain="6.6">
+	<coeffs>
+	<coeff value="7.7"/>
+	<coeff value="8.8"/>
+	</coeffs>
+	<covariances>
+	<covariance value="9.9"/>
+	<covariance value="10.1"/>
+	</covariances>
+	</linearityPoly>
+	</channel>
+	<channel cameraNumber="1" ccdNumber="2" ccdOutput="C">
+	<linearityPoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5" maxDomain="6.6">
+	<coeffs>
+	<coeff value="7.7"/>
+	<coeff value="8.8"/>
+</coeffs>
+	<covariances>
+	<covariance value="9.9"/>
+	<covariance value="10.1"/>
+	</covariances>
+	</linearityPoly>
+	</channel>
+	<channel cameraNumber="1" ccdNumber="2" ccdOutput="D">
+	<linearityPoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5"
+maxDomain="6.6">
+	<coeffs>
+	<coeff value="7.7"/>
+	<coeff value="8.8"/>
+	</coeffs>
+	<covariances>
+	<covariance value="9.9"/>
+	<covariance value="10.1"/>
+	</covariances>
+	</linearityPoly>
+	</channel>
+	<channel cameraNumber="1" ccdNumber="3" ccdOutput="A">
+	<linearityPoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5"
+maxDomain="6.6">
+	<coeffs>
+	<coeff value="7.7"/>
+	<coeff value="8.8"/>
+	</coeffs>
+	<covariances>
+	<covariance value="9.9"/>
+	<covariance value="10.1"/>
+	</covariances>
+	</linearityPoly>
+	</channel>
+	<channel cameraNumber="1" ccdNumber="3" ccdOutput="B">
+	<linearityPoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5"
+maxDomain="6.6">
+	<coeffs>
+	<coeff value="7.7"/>
+	<coeff value="8.8"/>
+	</coeffs>
+	<covariances>
+	<covariance value="9.9"/>
+	<covariance value="10.1"/>
+	</covariances>
+	</linearityPoly>
+	</channel>
+	<channel cameraNumber="1" ccdNumber="3" ccdOutput="C">
+	<linearityPoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5"
+maxDomain="6.6">
+	<coeffs>
+	<coeff value="7.7"/>
+	<coeff value="8.8"/>
+	</coeffs>
+	<covariances>
+	<covariance value="9.9"/>
+	<covariance value="10.1"/>
+	</covariances>
+</linearityPoly>
+	</channel>
+	<channel cameraNumber="1" ccdNumber="3" ccdOutput="D">
+	<linearityPoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5"
+maxDomain="6.6">
+	<coeffs>
+	<coeff value="7.7"/>
+	<coeff value="8.8"/>
+	</coeffs>
+	<covariances>
+	<covariance value="9.9"/>
+	<covariance value="10.1"/>
+	</covariances>
+	</linearityPoly>
+	</channel>
+	<channel cameraNumber="1" ccdNumber="4" ccdOutput="A">
+	<linearityPoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5"
+maxDomain="6.6">
+	<coeffs>
+	<coeff value="7.7"/>
+	<coeff value="8.8"/>
+	</coeffs>
+	<covariances>
+	<covariance value="9.9"/>
+	<covariance value="10.1"/>
+	</covariances>
+	</linearityPoly>
+	</channel>
+	<channel cameraNumber="1" ccdNumber="4" ccdOutput="B">
+	<linearityPoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5"
+maxDomain="6.6">
+	<coeffs>
+	<coeff value="7.7"/>
+	<coeff value="8.8"/>
+	</coeffs>
+	<covariances>
+	<covariance value="9.9"/>
+	<covariance value="10.1"/>
+	</covariances>
+	</linearityPoly>
+	</channel>
+	<channel cameraNumber="1" ccdNumber="4" ccdOutput="C">
+	<linearityPoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5"
+maxDomain="6.6">
+	<coeffs>
+	<coeff value="7.7"/>
+	<coeff value="8.8"/>
+	</coeffs>
+	<covariances>
+	<covariance value="9.9"/>
+	<covariance value="10.1"/>
+	</covariances>
+	</linearityPoly>
+	</channel>
+	<channel cameraNumber="1" ccdNumber="4" ccdOutput="D">
+	<linearityPoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5"
+maxDomain="6.6">
+<coeffs>
+	<coeff value="7.7"/>
+	<coeff value="8.8"/>
+	</coeffs>
+	<covariances>
+	<covariance value="9.9"/>
+	<covariance value="10.1"/>
+	</covariances>
+	</linearityPoly>
+	</channel>
+	<channel cameraNumber="2" ccdNumber="1" ccdOutput="A">
+	<linearityPoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5"
+maxDomain="6.6">
+	<coeffs>
+	<coeff value="7.7"/>
+	<coeff value="8.8"/>
+	</coeffs>
+	<covariances>
+	<covariance value="9.9"/>
+	<covariance value="10.1"/>
+	</covariances>
+	</linearityPoly>
+	</channel>
+	<channel cameraNumber="2" ccdNumber="1" ccdOutput="B">
+	<linearityPoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5"
+maxDomain="6.6">
+	<coeffs>
+	<coeff value="7.7"/>
+	<coeff value="8.8"/>
+	</coeffs>
+	<covariances>
+	<covariance value="9.9"/>
+	<covariance value="10.1"/>
+	</covariances>
+	</linearityPoly>
+	</channel>
+	<channel cameraNumber="2" ccdNumber="1" ccdOutput="C">
+	<linearityPoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5"
+maxDomain="6.6">
+	<coeffs>
+	<coeff value="7.7"/>
+	<coeff value="8.8"/>
+	</coeffs>
+	<covariances>
+	<covariance value="9.9"/>
+	<covariance value="10.1"/>
+	</covariances>
+	</linearityPoly>
+	</channel>
+	<channel cameraNumber="2" ccdNumber="1" ccdOutput="D">
+	<linearityPoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5"
+maxDomain="6.6">
+	<coeffs>
+	<coeff value="7.7"/>
+	<coeff value="8.8"/>
+	</coeffs>
+	<covariances>
+<covariance value="9.9"/>
+	<covariance value="10.1"/>
+	</covariances>
+	</linearityPoly>
+	</channel>
+	<channel cameraNumber="2" ccdNumber="2" ccdOutput="A">
+	<linearityPoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5"
+maxDomain="6.6">
+	<coeffs>
+	<coeff value="7.7"/>
+	<coeff value="8.8"/>
+	</coeffs>
+	<covariances>
+	<covariance value="9.9"/>
+	<covariance value="10.1"/>
+	</covariances>
+	</linearityPoly>
+	</channel>
+	<channel cameraNumber="2" ccdNumber="2" ccdOutput="B">
+	<linearityPoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5"
+maxDomain="6.6">
+	<coeffs>
+	<coeff value="7.7"/>
+	<coeff value="8.8"/>
+	</coeffs>
+	<covariances>
+	<covariance value="9.9"/>
+	<covariance value="10.1"/>
+	</covariances>
+	</linearityPoly>
+	</channel>
+	<channel cameraNumber="2" ccdNumber="2" ccdOutput="C">
+	<linearityPoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5"
+maxDomain="6.6">
+	<coeffs>
+	<coeff value="7.7"/>
+	<coeff value="8.8"/>
+	</coeffs>
+	<covariances>
+	<covariance value="9.9"/>
+	<covariance value="10.1"/>
+	</covariances>
+	</linearityPoly>
+	</channel>
+	<channel cameraNumber="2" ccdNumber="2" ccdOutput="D">
+	<linearityPoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5"
+maxDomain="6.6">
+	<coeffs>
+	<coeff value="7.7"/>
+	<coeff value="8.8"/>
+	</coeffs>
+	<covariances>
+	<covariance value="9.9"/>
+	<covariance value="10.1"/>
+	</covariances>
+	</linearityPoly>
+	</channel>
+<channel cameraNumber="2" ccdNumber="3" ccdOutput="A">
+	<linearityPoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5"
+maxDomain="6.6">
+	<coeffs>
+	<coeff value="7.7"/>
+	<coeff value="8.8"/>
+	</coeffs>
+	<covariances>
+	<covariance value="9.9"/>
+	<covariance value="10.1"/>
+	</covariances>
+	</linearityPoly>
+	</channel>
+	<channel cameraNumber="2" ccdNumber="3" ccdOutput="B">
+	<linearityPoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5"
+maxDomain="6.6">
+	<coeffs>
+	<coeff value="7.7"/>
+	<coeff value="8.8"/>
+	</coeffs>
+	<covariances>
+	<covariance value="9.9"/>
+	<covariance value="10.1"/>
+	</covariances>
+	</linearityPoly>
+	</channel>
+	<channel cameraNumber="2" ccdNumber="3" ccdOutput="C">
+	<linearityPoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5"
+maxDomain="6.6">
+	<coeffs>
+	<coeff value="7.7"/>
+	<coeff value="8.8"/>
+	</coeffs>
+	<covariances>
+	<covariance value="9.9"/>
+	<covariance value="10.1"/>
+	</covariances>
+	</linearityPoly>
+	</channel>
+	<channel cameraNumber="2" ccdNumber="3" ccdOutput="D">
+	<linearityPoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5"
+maxDomain="6.6">
+	<coeffs>
+	<coeff value="7.7"/>
+	<coeff value="8.8"/>
+	</coeffs>
+	<covariances>
+	<covariance value="9.9"/>
+	<covariance value="10.1"/>
+	</covariances>
+	</linearityPoly>
+	</channel>
+	<channel cameraNumber="2" ccdNumber="4" ccdOutput="A">
+	<linearityPoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5"
+maxDomain="6.6">
+	<coeffs>
+	<coeff value="7.7"/>
+<coeff value="8.8"/>
+	</coeffs>
+	<covariances>
+	<covariance value="9.9"/>
+	<covariance value="10.1"/>
+	</covariances>
+	</linearityPoly>
+	</channel>
+	<channel cameraNumber="2" ccdNumber="4" ccdOutput="B">
+	<linearityPoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5"
+maxDomain="6.6">
+	<coeffs>
+	<coeff value="7.7"/>
+	<coeff value="8.8"/>
+	</coeffs>
+	<covariances>
+	<covariance value="9.9"/>
+	<covariance value="10.1"/>
+	</covariances>
+	</linearityPoly>
+	</channel>
+	<channel cameraNumber="2" ccdNumber="4" ccdOutput="C">
+	<linearityPoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5"
+maxDomain="6.6">
+	<coeffs>
+	<coeff value="7.7"/>
+	<coeff value="8.8"/>
+	</coeffs>
+	<covariances>
+	<covariance value="9.9"/>
+	<covariance value="10.1"/>
+	</covariances>
+	</linearityPoly>
+	</channel>
+	<channel cameraNumber="2" ccdNumber="4" ccdOutput="D">
+	<linearityPoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5"
+maxDomain="6.6">
+	<coeffs>
+	<coeff value="7.7"/>
+	<coeff value="8.8"/>
+	</coeffs>
+	<covariances>
+	<covariance value="9.9"/>
+	<covariance value="10.1"/>
+	</covariances>
+	</linearityPoly>
+	</channel>
+	<channel cameraNumber="3" ccdNumber="1" ccdOutput="A">
+	<linearityPoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5"
+maxDomain="6.6">
+	<coeffs>
+	<coeff value="7.7"/>
+	<coeff value="8.8"/>
+	</coeffs>
+	<covariances>
+	<covariance value="9.9"/>
+	<covariance value="10.1"/>
+</covariances>
+	</linearityPoly>
+	</channel>
+	<channel cameraNumber="3" ccdNumber="1" ccdOutput="B">
+	<linearityPoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5"
+maxDomain="6.6">
+	<coeffs>
+	<coeff value="7.7"/>
+	<coeff value="8.8"/>
+	</coeffs>
+	<covariances>
+	<covariance value="9.9"/>
+	<covariance value="10.1"/>
+	</covariances>
+	</linearityPoly>
+	</channel>
+	<channel cameraNumber="3" ccdNumber="1" ccdOutput="C">
+	<linearityPoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5"
+maxDomain="6.6">
+	<coeffs>
+	<coeff value="7.7"/>
+	<coeff value="8.8"/>
+	</coeffs>
+	<covariances>
+	<covariance value="9.9"/>
+	<covariance value="10.1"/>
+	</covariances>
+	</linearityPoly>
+	</channel>
+	<channel cameraNumber="3" ccdNumber="1" ccdOutput="D">
+	<linearityPoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5"
+maxDomain="6.6">
+	<coeffs>
+	<coeff value="7.7"/>
+	<coeff value="8.8"/>
+	</coeffs>
+	<covariances>
+	<covariance value="9.9"/>
+	<covariance value="10.1"/>
+	</covariances>
+	</linearityPoly>
+	</channel>
+	<channel cameraNumber="3" ccdNumber="2" ccdOutput="A">
+	<linearityPoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5"
+maxDomain="6.6">
+	<coeffs>
+	<coeff value="7.7"/>
+	<coeff value="8.8"/>
+	</coeffs>
+	<covariances>
+	<covariance value="9.9"/>
+	<covariance value="10.1"/>
+	</covariances>
+	</linearityPoly>
+	</channel>
+	<channel cameraNumber="3" ccdNumber="2" ccdOutput="B">
+<linearityPoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5"
+maxDomain="6.6">
+	<coeffs>
+	<coeff value="7.7"/>
+	<coeff value="8.8"/>
+	</coeffs>
+	<covariances>
+	<covariance value="9.9"/>
+	<covariance value="10.1"/>
+	</covariances>
+	</linearityPoly>
+	</channel>
+	<channel cameraNumber="3" ccdNumber="2" ccdOutput="C">
+	<linearityPoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5"
+maxDomain="6.6">
+	<coeffs>
+	<coeff value="7.7"/>
+	<coeff value="8.8"/>
+	</coeffs>
+	<covariances>
+	<covariance value="9.9"/>
+	<covariance value="10.1"/>
+	</covariances>
+	</linearityPoly>
+	</channel>
+	<channel cameraNumber="3" ccdNumber="2" ccdOutput="D">
+	<linearityPoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5"
+maxDomain="6.6">
+	<coeffs>
+	<coeff value="7.7"/>
+	<coeff value="8.8"/>
+	</coeffs>
+	<covariances>
+	<covariance value="9.9"/>
+	<covariance value="10.1"/>
+	</covariances>
+	</linearityPoly>
+	</channel>
+	<channel cameraNumber="3" ccdNumber="3" ccdOutput="A">
+	<linearityPoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5"
+maxDomain="6.6">
+	<coeffs>
+	<coeff value="7.7"/>
+	<coeff value="8.8"/>
+	</coeffs>
+	<covariances>
+	<covariance value="9.9"/>
+	<covariance value="10.1"/>
+	</covariances>
+	</linearityPoly>
+	</channel>
+	<channel cameraNumber="3" ccdNumber="3" ccdOutput="B">
+	<linearityPoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5"
+maxDomain="6.6">
+	<coeffs>
+	<coeff value="7.7"/>
+	<coeff value="8.8"/>
+</coeffs>
+	<covariances>
+	<covariance value="9.9"/>
+	<covariance value="10.1"/>
+	</covariances>
+	</linearityPoly>
+	</channel>
+	<channel cameraNumber="3" ccdNumber="3" ccdOutput="C">
+	<linearityPoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5"
+maxDomain="6.6">
+	<coeffs>
+	<coeff value="7.7"/>
+	<coeff value="8.8"/>
+	</coeffs>
+	<covariances>
+	<covariance value="9.9"/>
+	<covariance value="10.1"/>
+	</covariances>
+	</linearityPoly>
+	</channel>
+	<channel cameraNumber="3" ccdNumber="3" ccdOutput="D">
+	<linearityPoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5"
+maxDomain="6.6">
+	<coeffs>
+	<coeff value="7.7"/>
+	<coeff value="8.8"/>
+	</coeffs>
+	<covariances>
+	<covariance value="9.9"/>
+	<covariance value="10.1"/>
+	</covariances>
+	</linearityPoly>
+	</channel>
+	<channel cameraNumber="3" ccdNumber="4" ccdOutput="A">
+	<linearityPoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5"
+maxDomain="6.6">
+	<coeffs>
+	<coeff value="7.7"/>
+	<coeff value="8.8"/>
+	</coeffs>
+	<covariances>
+	<covariance value="9.9"/>
+	<covariance value="10.1"/>
+	</covariances>
+	</linearityPoly>
+	</channel>
+	<channel cameraNumber="3" ccdNumber="4" ccdOutput="B">
+	<linearityPoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5"
+maxDomain="6.6">
+	<coeffs>
+	<coeff value="7.7"/>
+	<coeff value="8.8"/>
+	</coeffs>
+	<covariances>
+	<covariance value="9.9"/>
+	<covariance value="10.1"/>
+	</covariances>
+</linearityPoly>
+	</channel>
+	<channel cameraNumber="3" ccdNumber="4" ccdOutput="C">
+	<linearityPoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5"
+maxDomain="6.6">
+	<coeffs>
+	<coeff value="7.7"/>
+	<coeff value="8.8"/>
+	</coeffs>
+	<covariances>
+	<covariance value="9.9"/>
+	<covariance value="10.1"/>
+	</covariances>
+	</linearityPoly>
+	</channel>
+	<channel cameraNumber="3" ccdNumber="4" ccdOutput="D">
+	<linearityPoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5"
+maxDomain="6.6">
+	<coeffs>
+	<coeff value="7.7"/>
+	<coeff value="8.8"/>
+	</coeffs>
+	<covariances>
+	<covariance value="9.9"/>
+	<covariance value="10.1"/>
+	</covariances>
+	</linearityPoly>
+	</channel>
+	<channel cameraNumber="4" ccdNumber="1" ccdOutput="A">
+	<linearityPoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5"
+maxDomain="6.6">
+	<coeffs>
+	<coeff value="7.7"/>
+	<coeff value="8.8"/>
+	</coeffs>
+	<covariances>
+	<covariance value="9.9"/>
+	<covariance value="10.1"/>
+	</covariances>
+	</linearityPoly>
+	</channel>
+	<channel cameraNumber="4" ccdNumber="1" ccdOutput="B">
+	<linearityPoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5"
+maxDomain="6.6">
+	<coeffs>
+	<coeff value="7.7"/>
+	<coeff value="8.8"/>
+	</coeffs>
+	<covariances>
+	<covariance value="9.9"/>
+	<covariance value="10.1"/>
+	</covariances>
+	</linearityPoly>
+	</channel>
+	<channel cameraNumber="4" ccdNumber="1" ccdOutput="C">
+	<linearityPoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5"
+maxDomain="6.6">
+<coeffs>
+	<coeff value="7.7"/>
+	<coeff value="8.8"/>
+	</coeffs>
+	<covariances>
+	<covariance value="9.9"/>
+	<covariance value="10.1"/>
+	</covariances>
+	</linearityPoly>
+	</channel>
+	<channel cameraNumber="4" ccdNumber="1" ccdOutput="D">
+	<linearityPoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5"
+maxDomain="6.6">
+	<coeffs>
+	<coeff value="7.7"/>
+	<coeff value="8.8"/>
+	</coeffs>
+	<covariances>
+	<covariance value="9.9"/>
+	<covariance value="10.1"/>
+	</covariances>
+	</linearityPoly>
+	</channel>
+	<channel cameraNumber="4" ccdNumber="2" ccdOutput="A">
+	<linearityPoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5"
+maxDomain="6.6">
+	<coeffs>
+	<coeff value="7.7"/>
+	<coeff value="8.8"/>
+	</coeffs>
+	<covariances>
+	<covariance value="9.9"/>
+	<covariance value="10.1"/>
+	</covariances>
+	</linearityPoly>
+	</channel>
+	<channel cameraNumber="4" ccdNumber="2" ccdOutput="B">
+	<linearityPoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5"
+maxDomain="6.6">
+	<coeffs>
+	<coeff value="7.7"/>
+	<coeff value="8.8"/>
+	</coeffs>
+	<covariances>
+	<covariance value="9.9"/>
+	<covariance value="10.1"/>
+	</covariances>
+	</linearityPoly>
+	</channel>
+	<channel cameraNumber="4" ccdNumber="2" ccdOutput="C">
+	<linearityPoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5"
+maxDomain="6.6">
+	<coeffs>
+	<coeff value="7.7"/>
+	<coeff value="8.8"/>
+	</coeffs>
+	<covariances>
+<covariance value="9.9"/>
+	<covariance value="10.1"/>
+	</covariances>
+	</linearityPoly>
+	</channel>
+	<channel cameraNumber="4" ccdNumber="2" ccdOutput="D">
+	<linearityPoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5"
+maxDomain="6.6">
+	<coeffs>
+	<coeff value="7.7"/>
+	<coeff value="8.8"/>
+	</coeffs>
+	<covariances>
+	<covariance value="9.9"/>
+	<covariance value="10.1"/>
+	</covariances>
+	</linearityPoly>
+	</channel>
+	<channel cameraNumber="4" ccdNumber="3" ccdOutput="A">
+	<linearityPoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5"
+maxDomain="6.6">
+	<coeffs>
+	<coeff value="7.7"/>
+	<coeff value="8.8"/>
+	</coeffs>
+	<covariances>
+	<covariance value="9.9"/>
+	<covariance value="10.1"/>
+	</covariances>
+	</linearityPoly>
+	</channel>
+	<channel cameraNumber="4" ccdNumber="3" ccdOutput="B">
+	<linearityPoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5"
+maxDomain="6.6">
+	<coeffs>
+	<coeff value="7.7"/>
+	<coeff value="8.8"/>
+	</coeffs>
+	<covariances>
+	<covariance value="9.9"/>
+	<covariance value="10.1"/>
+	</covariances>
+	</linearityPoly>
+	</channel>
+	<channel cameraNumber="4" ccdNumber="3" ccdOutput="C">
+	<linearityPoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5"
+maxDomain="6.6">
+	<coeffs>
+	<coeff value="7.7"/>
+	<coeff value="8.8"/>
+	</coeffs>
+	<covariances>
+	<covariance value="9.9"/>
+	<covariance value="10.1"/>
+	</covariances>
+	</linearityPoly>
+	</channel>
+<channel cameraNumber="4" ccdNumber="3" ccdOutput="D">
+	<linearityPoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5"
+maxDomain="6.6">
+	<coeffs>
+	<coeff value="7.7"/>
+	<coeff value="8.8"/>
+	</coeffs>
+	<covariances>
+	<covariance value="9.9"/>
+	<covariance value="10.1"/>
+	</covariances>
+	</linearityPoly>
+	</channel>
+	<channel cameraNumber="4" ccdNumber="4" ccdOutput="A">
+	<linearityPoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5"
+maxDomain="6.6">
+	<coeffs>
+	<coeff value="7.7"/>
+	<coeff value="8.8"/>
+	</coeffs>
+	<covariances>
+	<covariance value="9.9"/>
+	<covariance value="10.1"/>
+	</covariances>
+	</linearityPoly>
+	</channel>
+	<channel cameraNumber="4" ccdNumber="4" ccdOutput="B">
+	<linearityPoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5"
+maxDomain="6.6">
+	<coeffs>
+	<coeff value="7.7"/>
+	<coeff value="8.8"/>
+	</coeffs>
+	<covariances>
+	<covariance value="9.9"/>
+	<covariance value="10.1"/>
+	</covariances>
+	</linearityPoly>
+	</channel>
+	<channel cameraNumber="4" ccdNumber="4" ccdOutput="C">
+	<linearityPoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5"
+maxDomain="6.6">
+	<coeffs>
+	<coeff value="7.7"/>
+	<coeff value="8.8"/>
+	</coeffs>
+	<covariances>
+	<covariance value="9.9"/>
+	<covariance value="10.1"/>
+	</covariances>
+	</linearityPoly>
+	</channel>
+	<channel cameraNumber="4" ccdNumber="4" ccdOutput="D">
+	<linearityPoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5"
+maxDomain="6.6">
+	<coeffs>
+	<coeff value="7.7"/>
+<coeff value="8.8"/>
+	</coeffs>
+	<covariances>
+	<covariance value="9.9"/>
+	<covariance value="10.1"/>
+	</covariances>
+	</linearityPoly>
+	</channel>
+</lin:linearityModel>

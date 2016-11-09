@@ -1,0 +1,18 @@
+syntax = "proto2";
+package tess.protobuf;
+
+option java_package = "gov.nasa.tess.protobuf";
+option java_outer_classname = "FlatField";
+
+option optimize_for = SPEED;
+
+import "common.proto";
+
+message FlatFieldModel {
+
+	required int64 data_set_id = 1;
+	required int32 flat_field_model_id = 2;
+	required double start_tjd = 3;
+	repeated CcdImage images = 4;
+
+}
