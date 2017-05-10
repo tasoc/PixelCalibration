@@ -1,6 +1,9 @@
 PROTOC=protoc -I=protobuf --python_out=.
 
-all: common flatfield twodblack
+all: common flatfield twodblack pixeldata
+
+pixeldata:
+	$(PROTOC) protobuf/CadencePixelData.proto
 
 flatfield:
 	$(PROTOC) protobuf/flatfield.proto

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pt:pixelTable
+	xmlns:pt="http://tess.mit.edu/pixel-table"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://tess.mit.edu/pixel-table pixel-table.xsd"
+	dataSetId="1" pixelTableId="100" cadenceType="target" pixelType="science" sectorNumber="1" totalPixelCount="12">
+	<ccd cameraNumber="1" ccdNumber="1" pixelCount="8">
+		<pixel index="1" column="1" row="2"/>
+		<pixel index="2" column="2" row="1"/>
+		<pixel index="3" column="2" row="2"/>
+		<pixel index="4" column="1" row="1"/>
+		<pixel index="5" column="200" row="101"/>
+		<pixel index="6" column="201" row="100"/>
+		<pixel index="7" column="201" row="101"/>
+		<pixel index="8" column="200" row="100"/>
+	</ccd>
+	<ccd cameraNumber="1" ccdNumber="2" pixelCount="0"/>
+	<ccd cameraNumber="1" ccdNumber="3" pixelCount="0"/>
+	<ccd cameraNumber="1" ccdNumber="4" pixelCount="0"/>
+	<ccd cameraNumber="2" ccdNumber="1" pixelCount="4">
+		<pixel index="1" column="10" row="11"/>
+		<pixel index="2" column="11" row="10"/>
+		<pixel index="3" column="11" row="11"/>
+		<pixel index="4" column="10" row="10"/>
+	</ccd>
+	<ccd cameraNumber="2" ccdNumber="2" pixelCount="0"/>
+	<ccd cameraNumber="2" ccdNumber="3" pixelCount="0"/>
+	<ccd cameraNumber="2" ccdNumber="4" pixelCount="0"/>
+	<ccd cameraNumber="3" ccdNumber="1" pixelCount="0"/>
+	<ccd cameraNumber="3" ccdNumber="2" pixelCount="0"/>
+	<ccd cameraNumber="3" ccdNumber="3" pixelCount="0"/>
+	<ccd cameraNumber="3" ccdNumber="4" pixelCount="0"/>
+	<ccd cameraNumber="4" ccdNumber="1" pixelCount="0"/>
+	<ccd cameraNumber="4" ccdNumber="2" pixelCount="0"/>
+	<ccd cameraNumber="4" ccdNumber="3" pixelCount="0"/>
+	<ccd cameraNumber="4" ccdNumber="4" pixelCount="0"/>
+</pt:pixelTable>

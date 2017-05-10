@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mpp:missionPointingProfile
+	xmlns:mpp="http://tess.mit.edu/mission-pointing-profile"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://tess.mit.edu/mission-pointing-profile mission-pointing-profile.xsd"
+	dataSetId="1" missionPointingProfileId="1">
+	<sector sectorNumber="1" startTjd="23.7" ra="19.4032107" dec="36.18904" roll="-0.0009492">
+		<orbit orbitNumber="10"/>
+		<orbit orbitNumber="11"/>
+	</sector>
+	<sector sectorNumber="2" startTjd="24.7" ra="19.4032108" dec="36.18905" roll="-0.0009493">
+		<orbit orbitNumber="12"/>
+		<orbit orbitNumber="13"/>
+	</sector>
+	<sector sectorNumber="3" startTjd="25.7" 	ra="19.4032109" dec="36.18906" roll="-0.0009494">
+	</sector>
+</mpp:missionPointingProfile>

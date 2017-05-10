@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<geom:geometryModel
+	xmlns:geom="http://tess.mit.edu/geometry-model"
+	dataSetId="0" geometryModelId="42" startTjd="42.42">
+	<ccdGeometry cameraNumber="1" ccdNumber="1" xAngleDegrees="1.1" yAngleDegrees="2.2" zAngleDegrees="3.3">
+		<plateScalePoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5" maxDomain="6.6">
+			<coeffs>
+				<coeff value="7.7"/>
+				<coeff value="8.8"/>
+			</coeffs>
+			<covariances>
+				<covariance value="9.9"/>
+				<covariance value="10.1"/>
+			</covariances>
+		</plateScalePoly>
+		<inversePlateScalePoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5" maxDomain="6.6">
+			<coeffs>
+				<coeff value="7.7"/>
+				<coeff value="8.8"/>
+			</coeffs>
+			<covariances>
+				<covariance value="9.9"/>
+				<covariance value="10.1"/>
+			</covariances>
+		</inversePlateScalePoly>
+	</ccdGeometry>
+	<ccdGeometry cameraNumber="1" ccdNumber="2" xAngleDegrees="1.1" yAngleDegrees="2.2" zAngleDegrees="3.3">
+		<plateScalePoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5" maxDomain="6.6">
+			<coeffs>
+				<coeff value="7.7"/>
+				<coeff value="8.8"/>
+			</coeffs>
+			<covariances>
+				<covariance value="9.9"/>
+				<covariance value="10.1"/>
+			</covariances>
+		</plateScalePoly>
+		<inversePlateScalePoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5" maxDomain="6.6">
+			<coeffs>
+				<coeff value="7.7"/>
+				<coeff value="8.8"/>
+			</coeffs>
+			<covariances>
+				<covariance value="9.9"/>
+				<covariance value="10.1"/>
+			</covariances>
+		</inversePlateScalePoly>
+	</ccdGeometry>
+	<ccdGeometry cameraNumber="1" ccdNumber="3" xAngleDegrees="1.1" yAngleDegrees="2.2" zAngleDegrees="3.3">
+		<plateScalePoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5" maxDomain="6.6">
+			<coeffs>
+				<coeff value="7.7"/>
+				<coeff value="8.8"/>
+			</coeffs>
+			<covariances>
+				<covariance value="9.9"/>
+				<covariance value="10.1"/>
+			</covariances>
+		</plateScalePoly>
+		<inversePlateScalePoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5" maxDomain="6.6">
+			<coeffs>
+				<coeff value="7.7"/>
+				<coeff value="8.8"/>
+			</coeffs>
+			<covariances>
+				<covariance value="9.9"/>
+				<covariance value="10.1"/>
+			</covariances>
+		</inversePlateScalePoly>
+	</ccdGeometry>
+	<ccdGeometry cameraNumber="1" ccdNumber="4" xAngleDegrees="1.1" yAngleDegrees="2.2" zAngleDegrees="3.3">
+		<plateScalePoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5" maxDomain="6.6">
+			<coeffs>
+				<coeff value="7.7"/>
+				<coeff value="8.8"/>
+			</coeffs>
+			<covariances>
+				<covariance value="9.9"/>
+				<covariance value="10.1"/>
+			</covariances>
+		</plateScalePoly>
+		<inversePlateScalePoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5" maxDomain="6.6">
+			<coeffs>
+				<coeff value="7.7"/>
+				<coeff value="8.8"/>
+			</coeffs>
+			<covariances>
+				<covariance value="9.9"/>
+				<covariance value="10.1"/>
+			</covariances>
+		</inversePlateScalePoly>
+	</ccdGeometry>
+	<ccdGeometry cameraNumber="2" ccdNumber="1" xAngleDegrees="1.1" yAngleDegrees="2.2" zAngleDegrees="3.3">
+		<plateScalePoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5" maxDomain="6.6">
+			<coeffs>
+				<coeff value="7.7"/>
+				<coeff value="8.8"/>
+			</coeffs>
+			<covariances>
+				<covariance value="9.9"/>
+				<covariance value="10.1"/>
+			</covariances>
+		</plateScalePoly>
+		<inversePlateScalePoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5" maxDomain="6.6">
+			<coeffs>
+				<coeff value="7.7"/>
+				<coeff value="8.8"/>
+			</coeffs>
+			<covariances>
+				<covariance value="9.9"/>
+				<covariance value="10.1"/>
+			</covariances>
+		</inversePlateScalePoly>
+	</ccdGeometry>
+	<ccdGeometry cameraNumber="2" ccdNumber="2" xAngleDegrees="1.1" yAngleDegrees="2.2" zAngleDegrees="3.3">
+		<plateScalePoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5" maxDomain="6.6">
+			<coeffs>
+				<coeff value="7.7"/>
+				<coeff value="8.8"/>
+			</coeffs>
+			<covariances>
+				<covariance value="9.9"/>
+				<covariance value="10.1"/>
+			</covariances>
+		</plateScalePoly>
+		<inversePlateScalePoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5" maxDomain="6.6">
+			<coeffs>
+				<coeff value="7.7"/>
+				<coeff value="8.8"/>
+			</coeffs>
+			<covariances>
+				<covariance value="9.9"/>
+				<covariance value="10.1"/>
+			</covariances>
+		</inversePlateScalePoly>
+	</ccdGeometry>
+	<ccdGeometry cameraNumber="2" ccdNumber="3" xAngleDegrees="1.1" yAngleDegrees="2.2" zAngleDegrees="3.3">
+		<plateScalePoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5" maxDomain="6.6">
+			<coeffs>
+				<coeff value="7.7"/>
+				<coeff value="8.8"/>
+			</coeffs>
+			<covariances>
+				<covariance value="9.9"/>
+				<covariance value="10.1"/>
+			</covariances>
+		</plateScalePoly>
+		<inversePlateScalePoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5" maxDomain="6.6">
+			<coeffs>
+				<coeff value="7.7"/>
+				<coeff value="8.8"/>
+			</coeffs>
+			<covariances>
+				<covariance value="9.9"/>
+				<covariance value="10.1"/>
+			</covariances>
+		</inversePlateScalePoly>
+	</ccdGeometry>
+	<ccdGeometry cameraNumber="2" ccdNumber="4" xAngleDegrees="1.1" yAngleDegrees="2.2" zAngleDegrees="3.3">
+		<plateScalePoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5" maxDomain="6.6">
+			<coeffs>
+				<coeff value="7.7"/>
+				<coeff value="8.8"/>
+			</coeffs>
+			<covariances>
+				<covariance value="9.9"/>
+				<covariance value="10.1"/>
+			</covariances>
+		</plateScalePoly>
+		<inversePlateScalePoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5" maxDomain="6.6">
+			<coeffs>
+				<coeff value="7.7"/>
+				<coeff value="8.8"/>
+			</coeffs>
+			<covariances>
+				<covariance value="9.9"/>
+				<covariance value="10.1"/>
+			</covariances>
+		</inversePlateScalePoly>
+	</ccdGeometry>
+	<ccdGeometry cameraNumber="3" ccdNumber="1" xAngleDegrees="1.1" yAngleDegrees="2.2" zAngleDegrees="3.3">
+		<plateScalePoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5" maxDomain="6.6">
+			<coeffs>
+				<coeff value="7.7"/>
+				<coeff value="8.8"/>
+			</coeffs>
+			<covariances>
+				<covariance value="9.9"/>
+				<covariance value="10.1"/>
+			</covariances>
+		</plateScalePoly>
+		<inversePlateScalePoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5" maxDomain="6.6">
+			<coeffs>
+				<coeff value="7.7"/>
+				<coeff value="8.8"/>
+			</coeffs>
+			<covariances>
+				<covariance value="9.9"/>
+				<covariance value="10.1"/>
+			</covariances>
+		</inversePlateScalePoly>
+	</ccdGeometry>
+	<ccdGeometry cameraNumber="3" ccdNumber="2" xAngleDegrees="1.1" yAngleDegrees="2.2" zAngleDegrees="3.3">
+		<plateScalePoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5" maxDomain="6.6">
+			<coeffs>
+				<coeff value="7.7"/>
+				<coeff value="8.8"/>
+			</coeffs>
+			<covariances>
+				<covariance value="9.9"/>
+				<covariance value="10.1"/>
+			</covariances>
+		</plateScalePoly>
+		<inversePlateScalePoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5" maxDomain="6.6">
+			<coeffs>
+				<coeff value="7.7"/>
+				<coeff value="8.8"/>
+			</coeffs>
+			<covariances>
+				<covariance value="9.9"/>
+				<covariance value="10.1"/>
+			</covariances>
+		</inversePlateScalePoly>
+	</ccdGeometry>
+	<ccdGeometry cameraNumber="3" ccdNumber="3" xAngleDegrees="1.1" yAngleDegrees="2.2" zAngleDegrees="3.3">
+		<plateScalePoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5" maxDomain="6.6">
+			<coeffs>
+				<coeff value="7.7"/>
+				<coeff value="8.8"/>
+			</coeffs>
+			<covariances>
+				<covariance value="9.9"/>
+				<covariance value="10.1"/>
+			</covariances>
+		</plateScalePoly>
+		<inversePlateScalePoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5" maxDomain="6.6">
+			<coeffs>
+				<coeff value="7.7"/>
+				<coeff value="8.8"/>
+			</coeffs>
+			<covariances>
+				<covariance value="9.9"/>
+				<covariance value="10.1"/>
+			</covariances>
+		</inversePlateScalePoly>
+	</ccdGeometry>
+	<ccdGeometry cameraNumber="3" ccdNumber="4" xAngleDegrees="1.1" yAngleDegrees="2.2" zAngleDegrees="3.3">
+		<plateScalePoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5" maxDomain="6.6">
+			<coeffs>
+				<coeff value="7.7"/>
+				<coeff value="8.8"/>
+			</coeffs>
+			<covariances>
+				<covariance value="9.9"/>
+				<covariance value="10.1"/>
+			</covariances>
+		</plateScalePoly>
+		<inversePlateScalePoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5" maxDomain="6.6">
+			<coeffs>
+				<coeff value="7.7"/>
+				<coeff value="8.8"/>
+			</coeffs>
+			<covariances>
+				<covariance value="9.9"/>
+				<covariance value="10.1"/>
+			</covariances>
+		</inversePlateScalePoly>
+	</ccdGeometry>
+	<ccdGeometry cameraNumber="4" ccdNumber="1" xAngleDegrees="1.1" yAngleDegrees="2.2" zAngleDegrees="3.3">
+		<plateScalePoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5" maxDomain="6.6">
+			<coeffs>
+				<coeff value="7.7"/>
+				<coeff value="8.8"/>
+			</coeffs>
+			<covariances>
+				<covariance value="9.9"/>
+				<covariance value="10.1"/>
+			</covariances>
+		</plateScalePoly>
+		<inversePlateScalePoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5" maxDomain="6.6">
+			<coeffs>
+				<coeff value="7.7"/>
+				<coeff value="8.8"/>
+			</coeffs>
+			<covariances>
+				<covariance value="9.9"/>
+				<covariance value="10.1"/>
+			</covariances>
+		</inversePlateScalePoly>
+	</ccdGeometry>
+	<ccdGeometry cameraNumber="4" ccdNumber="2" xAngleDegrees="1.1" yAngleDegrees="2.2" zAngleDegrees="3.3">
+		<plateScalePoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5" maxDomain="6.6">
+			<coeffs>
+				<coeff value="7.7"/>
+				<coeff value="8.8"/>
+			</coeffs>
+			<covariances>
+				<covariance value="9.9"/>
+				<covariance value="10.1"/>
+			</covariances>
+		</plateScalePoly>
+		<inversePlateScalePoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5" maxDomain="6.6">
+			<coeffs>
+				<coeff value="7.7"/>
+				<coeff value="8.8"/>
+			</coeffs>
+			<covariances>
+				<covariance value="9.9"/>
+				<covariance value="10.1"/>
+			</covariances>
+		</inversePlateScalePoly>
+	</ccdGeometry>
+	<ccdGeometry cameraNumber="4" ccdNumber="3" xAngleDegrees="1.1" yAngleDegrees="2.2" zAngleDegrees="3.3">
+		<plateScalePoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5" maxDomain="6.6">
+			<coeffs>
+				<coeff value="7.7"/>
+				<coeff value="8.8"/>
+			</coeffs>
+			<covariances>
+				<covariance value="9.9"/>
+				<covariance value="10.1"/>
+			</covariances>
+		</plateScalePoly>
+		<inversePlateScalePoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5" maxDomain="6.6">
+			<coeffs>
+				<coeff value="7.7"/>
+				<coeff value="8.8"/>
+			</coeffs>
+			<covariances>
+				<covariance value="9.9"/>
+				<covariance value="10.1"/>
+			</covariances>
+		</inversePlateScalePoly>
+	</ccdGeometry>
+	<ccdGeometry cameraNumber="4" ccdNumber="4" xAngleDegrees="1.1" yAngleDegrees="2.2" zAngleDegrees="3.3">
+		<plateScalePoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5" maxDomain="6.6">
+			<coeffs>
+				<coeff value="7.7"/>
+				<coeff value="8.8"/>
+			</coeffs>
+			<covariances>
+				<covariance value="9.9"/>
+				<covariance value="10.1"/>
+			</covariances>
+		</plateScalePoly>
+		<inversePlateScalePoly order="1" type="legendre" xindex="2" offsetx="3.3" scalex="4.4" originx="5.5" maxDomain="6.6">
+			<coeffs>
+				<coeff value="7.7"/>
+				<coeff value="8.8"/>
+			</coeffs>
+			<covariances>
+				<covariance value="9.9"/>
+				<covariance value="10.1"/>
+			</covariances>
+		</inversePlateScalePoly>
+	</ccdGeometry>
+</geom:geometryModel>

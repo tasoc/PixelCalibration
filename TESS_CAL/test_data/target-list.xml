@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tl:targetList
+	xmlns:tl="http://tess.mit.edu/target-list"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://tess.mit.edu/target-list target-list.xsd"
+	dataSetId="1" targetListId="100" pixelTableId="100" sectorNumber="1" startTjd="42.42">
+	<ccd cameraNumber="1" ccdNumber="1" targetCount="3">
+		<target index="0" catId="1000000">
+			<labels>
+				<label value="PPA"/>
+				<label value="EXOPLANET"/>
+			</labels>
+			<pixels>
+				<pixel index="1"/>
+				<pixel index="2"/>
+				<pixel index="3"/>
+				<pixel index="4"/>
+			</pixels>
+		</target>
+		<target index="1" catId="1000001">
+			<labels>
+				<label value="PPA"/>
+				<label value="ASTEROSEISMOLOGY"/>
+			</labels>
+			<pixels>
+				<pixel index="5"/>
+				<pixel index="6"/>
+				<pixel index="7"/>
+				<pixel index="8"/>
+			</pixels>
+		</target>
+		<target index="2" catId="1000002">
+			<labels>
+				<label value="PLANETARY"/>
+			</labels>
+			<pixels>
+				<pixel index="9" />
+				<pixel index="10"/>
+				<pixel index="11"/>
+				<pixel index="12"/>
+			</pixels>
+		</target>
+	</ccd>
+</tl:targetList>
