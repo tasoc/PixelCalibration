@@ -1,27 +1,42 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+"""
+Author: Rasmus Handberg <rasmush@phys.au.dk>
+"""
+
+from __future__ import division, with_statement, print_function, absolute_import
 import numpy as np
+from numpy.polynomial.polynomial import polyval
+from numpy.polynomial.legendre import legval
 
 class polynomial():
 	def __init__(self, xmlpoly):
 
 		self.type = xmlpoly.get('type')
-		self.offsetx = float(xmlpoly.get('offsetx'))
-		self.scalex = float(xmlpoly.get('scalex'))
-		self.originx = float(xmlpoly.get('originx'))
+		self.offsetx = float(xmlpoly.get('offsetx', 0))
+		self.scalex = float(xmlpoly.get('scalex', 1))
+		self.originx = float(xmlpoly.get('originx', 0))
+		#self.xindex = xmlpoly.get('xindex')
+		self.maxDomain = float(xmlpoly.get('maxDomain'))
 
-		self.coeffs = np.zeros(int(xmlpoly.get('order'))+1, 'float64')
+		N = int(xmlpoly.get('order')) + 1
+		self.coeffs = np.zeros(N, dtype='float64')
 		for k,coeff in enumerate(xmlpoly.findall('./coeffs/coeff')):
 			self.coeffs[k] = coeff.get('value')
 
+		self.covariances = np.zeros(N*N, dtype='float64')
+		for k,cov in enumerate(xmlpoly.findall('./covariances/covariance')):
+			self.covariances[k] = cov.get('value')
+		self.covariances = self.covariances.reshape((N,N))
+
 	def __call__(self, x):
 		if self.type == 'standard':
-			return np.polyval(self.coeffs, self.offsetx + self.scalex * (x - self.originx))
+			return polyval(self.offsetx + self.scalex * (x - self.originx), self.coeffs)
 		elif self.type == 'legendre':
-			return np.polynomial.legendre.legval(self.offsetx + self.scalex * (x - self.originx), self.coeffs)
+			return legval(self.offsetx + self.scalex * (x - self.originx), self.coeffs)
 		elif self.type == 'NotScaled':
-			#return np.polyval(self.coeffs, x)
-			raise NotImplementedError
+			#return polyval(x, self.coeffs)
+			raise NotImplementedError("Polynomial of type 'NotScaled' is not implemented yet.")
 		else:
-			raise NotImplementedError
+			raise NotImplementedError("Unknown polynomial type: '%s'", self.type)
